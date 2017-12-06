@@ -1,0 +1,93 @@
+.name {
+	font-size: 60px;
+	font-family: sans-serif;
+	font-weight: normal;
+	color: #5F9EA0;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: sans-serif;
+	font-weight: normal;
+	color: #5F9EA0;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: sans-serif;
+	font-weight: normal;
+	color: #800000;
+}
+
+p {
+	color: #800000;
+	font-family: sans-serif;
+	font-weight: lighter;
+}
+
+.margin-bottom {
+	margin-bottom: 1cm;
+}
+
+.row {
+	margin-bottom: .25cm;
+}
+
+.back {
+	font-size:15px;
+	position: absolute;
+    bottom: 0px;
+}
+
+.back-work {
+	font-size: 15px;
+	position: static;
+	bottom: 0px;
+}
+
+ul {
+	font-family: sans-serif;
+	font-weight: lighter;
+	list-style-type: disc;
+	list-style-position: inside;
+	text-align: center;
+	display: inline-block;
+}
+
+a {
+	font-family: sans-serif;
+	font-weight: lighter;
+}
+
+.paragraph {
+	color: #5F9EA0;
+}
+
+.envelope {
+	weight: 22px;
+	height: 22px;
+	position: absolute;
+	bottom: 20px;
+}
+
+.square {
+	weight: 280px;
+	height: 280px;
+	padding: 25px;
+}
+
+.heading {
+	font-size: 24px;
+}
+
+a {
+	color: #5F9EA0; background-color:transparent; text-decoration:none;
+}
+
+a:visited {
+	color: #5F9EA0; background-color:transparent; text-decoration:none;
+}
+
+a:hover {
+	color: #3CBCBC; background-color:transparent; text-decoration:none;
+}
